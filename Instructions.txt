@@ -1,0 +1,6 @@
+Instructions.
+
+1. Remove/Delete hw1_23_0.ybn & hi@hw1_23_0.ybn from the White Widow V2 MLO stream folder.
+2. Place these 2 merged .ybn collision files into the Dr Pills Pharmacy stream folder overwriting the 2 files with the same name.
+
+Now both mlos will be able to run at the same time without conflicting collisions.
