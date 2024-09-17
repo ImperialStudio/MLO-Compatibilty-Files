@@ -1,0 +1,9 @@
+La Fuente Blanca Ranch Wall
+These .YMAP files allow you to use our La Fuente Blanca Wall along side Yukon's 'Gravestone' Ranch MLO
+
+Seen here: https://yukonvisuals.tebex.io/package/5750780
+Instructions
+1. Remove/Delete apa_ch2_03c_strm_0.ymap & apa_ch2_03c_strm_2.ymap from our Wall package stream folder.
+2. Place these 2 .ymap files into the Gravestone MLO stream folder overwriting both of the files with the same name.
+
+*Readme and License files are not required
